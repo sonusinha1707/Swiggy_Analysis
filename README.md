@@ -1,5 +1,7 @@
 # 🍔 Swiggy Data Analysis Project
 
+![banner](https://github.com/sonusinha1707/Swiggy_Web-Scraping_and_Analysis/blob/main/swiggy.png)
+
 This project explores customer ordering patterns and food trends using a Swiggy dataset. We use Python and Jupyter Notebook to clean, analyze, and visualize the data to uncover meaningful insights.
 
 ## 📌 Highlights
